@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/zahidafsar/.nuget/packages/": {}
+    "/Users/marcosrodriguez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/AfsarZSayHelloEndPoint.csproj",
+      "projectUniqueName": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/AfsarZSayHelloEndPoint.csproj",
       "projectName": "AfsarZSayHelloEndPoint",
-      "projectPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/AfsarZSayHelloEndPoint.csproj",
-      "packagesPath": "/Users/zahidafsar/.nuget/packages/",
-      "outputPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/obj/",
+      "projectPath": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/AfsarZSayHelloEndPoint.csproj",
+      "packagesPath": "/Users/marcosrodriguez/.nuget/packages/",
+      "outputPath": "/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zahidafsar/.nuget/NuGet/NuGet.Config"
+        "/Users/marcosrodriguez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -31,3 +31,36 @@
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.pdb
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.genruntimeconfig.cache
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/AfsarZSayHelloEndPoint/obj/Debug/net7.0/ref/AfsarZSayHelloEndPoint.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/appsettings.Development.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/appsettings.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/AfsarZSayHelloEndPoint
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/AfsarZSayHelloEndPoint.deps.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/AfsarZSayHelloEndPoint.runtimeconfig.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/AfsarZSayHelloEndPoint.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/AfsarZSayHelloEndPoint.pdb
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.csproj.AssemblyReference.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.AssemblyInfoInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.AssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.csproj.CoreCompileInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.AfsarZSayHelloEndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.build.AfsarZSayHelloEndPoint.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AfsarZSayHelloEndPoint.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AfsarZSayHelloEndPoint.props
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.build.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.development.json
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/scopedcss/bundle/AfsarZSayHelloEndPoint.styles.css
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.csproj.CopyComplete
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/refint/AfsarZSayHelloEndPoint.dll
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.pdb
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/AfsarZSayHelloEndPoint.genruntimeconfig.cache
+/Users/marcosrodriguez/Documents/CodeStack/githubrepo/AfsarZSayHelloEndPoint/obj/Debug/net7.0/ref/AfsarZSayHelloEndPoint.dll
